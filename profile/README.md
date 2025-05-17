@@ -5,7 +5,13 @@ Airborne wind energy is a promising approach to
 - offshore wind energy harvesting, in particular for floating offshore systems
 - clean ship propulsion
 
-Have a look at our [Wiki](https://github.com/OpenSourceAWE/Wiki/wiki) !
+Goals of this organization:
+* to support the cooperation between startups and academia
+* to develop a complete stack of simulation, estimation, optimization and control software for all major AWE concepts
+* by doing so, reduce the costs for developing the initial software stack for startups
+* furthermore, to provide reference models for the International Energy Agency (IEA) such that major stackholders can inform themselves about AWE concepts and performance characteristics
+
+For more information, have a look at our [Wiki](https://github.com/OpenSourceAWE/Wiki/wiki) !
 
 <!--
 
