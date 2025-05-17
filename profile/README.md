@@ -15,7 +15,7 @@ So far, our members come from The Netherlands, Norway, Switzerland and Scotland.
 
 For more information, have a look at our [Wiki](https://github.com/OpenSourceAWE/Wiki/wiki) !
 
-![RodRead](https://github.com/user-attachments/assets/6ae73ba4-1559-46e4-be6b-17d688ae7ec8)
+<p align="left"><img src="https://github.com/user-attachments/assets/6ae73ba4-1559-46e4-be6b-17d688ae7ec8" width="250" /></p>
 
 <!--
 
