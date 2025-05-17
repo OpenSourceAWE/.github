@@ -17,7 +17,7 @@ For more information, have a look at our [Wiki](https://github.com/OpenSourceAWE
 
 
  <figure>
-  <img src="https://github.com/user-attachments/assets/6ae73ba4-1559-46e4-be6b-17d688ae7ec8" alt="Roderick Read" style="width:25%">
+  <img src="https://github.com/user-attachments/assets/29beda3a-85ff-4255-91a4-521c17c8ba4a" alt="Windswept Ltd" style="width:25%">
   <figcaption>Windswept & Interesting Ltd</figcaption>
 </figure> 
 
