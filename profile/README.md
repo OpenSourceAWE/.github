@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Have a look at our [Wiki](https://github.com/OpenSourceAWE/Wiki/wiki) !
+
 <!--
 
 **Here are some ideas to get you started:**
