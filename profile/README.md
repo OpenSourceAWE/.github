@@ -5,7 +5,7 @@ Airborne wind energy is a promising approach to
 - offshore wind energy harvesting, in particular for floating offshore systems
 - clean ship propulsion
 
-Goals of this organization:
+Goals of the OpenSourceAWE organization:
 * to support the cooperation between startups and academia
 * to develop a complete stack of simulation, estimation, optimization and control software for all major AWE concepts
 * by doing so, reduce the costs for developing the initial software stack for startups
