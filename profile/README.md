@@ -1,4 +1,9 @@
-## Hi there 👋
+## Airborne Wind Energy (AWE)
+
+Airborne wind energy is a promising approach to
+- decentral wind energy harvesting
+- offshore wind energy harvesting, in particular for floating offshore systems
+- clean ship propulsion
 
 Have a look at our [Wiki](https://github.com/OpenSourceAWE/Wiki/wiki) !
 
