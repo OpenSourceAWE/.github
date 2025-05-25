@@ -18,6 +18,7 @@ For more information, have a look at our [Wiki](https://github.com/OpenSourceAWE
 
  <figure>
   <img src="https://github.com/user-attachments/assets/29beda3a-85ff-4255-91a4-521c17c8ba4a" alt="Windswept Ltd" style="width:25%">
+  <img src="https://github.com/user-attachments/assets/59d962ca-2bbd-41ea-8813-c02d9c1d857d" alt="Windswept Ltd" style="width:25%">
 </figure> 
 
 <!--
