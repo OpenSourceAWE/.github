@@ -19,7 +19,9 @@ For more information, have a look at our [Wiki](https://github.com/OpenSourceAWE
  <figure>
   <img src="https://github.com/user-attachments/assets/29beda3a-85ff-4255-91a4-521c17c8ba4a" alt="Windswept Ltd" style="width:25%; margin-right: 40px;">
   <img src="https://github.com/user-attachments/assets/59d962ca-2bbd-41ea-8813-c02d9c1d857d" alt="Alba Kite Transport" style="width:25%; margin-left: 40px;"">
+  <a href="https://www.tiira.ch/">
   <img src="https://github.com/user-attachments/assets/7c449918-a235-486e-8da7-2659a2defbfc" alt="Tiira Wind Power" style="width:25%; margin-left: 40px;"">
+  </a>
 </figure> 
 
 <!--
