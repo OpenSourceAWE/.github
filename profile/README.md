@@ -24,6 +24,7 @@ For more information, have a look at our [Wiki](https://github.com/OpenSourceAWE
   <a href="https://www.tiira.ch/">
   <img src="https://github.com/user-attachments/assets/7c449918-a235-486e-8da7-2659a2defbfc" alt="Tiira Wind Power" style="width:25%; margin-left: 40px;"">
   </a>
+     <img src="https://github.com/user-attachments/assets/https://github.com/user-attachments/assets/94ed1a8b-56a3-4580-ba91-1635a92737fb" alt="Tiira Wind Power" style="width:25%; margin-left: 40px;"">
 </figure> 
 
 <!--
