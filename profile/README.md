@@ -11,7 +11,7 @@ Goals of the OpenSourceAWE organization:
 * by doing so, reduce the costs and effort for developing the initial software stack for startups and researchers
 * furthermore, to provide reference models for the International Energy Agency (IEA) such that major stackholders can inform themselves about AWE concepts and performance characteristics
 
-So far, our members come from The Netherlands, Norway, Switzerland and Scotland.
+So far, our members come from The Netherlands, France, Norway, Switzerland and Scotland.
 
 For more information, have a look at our [Wiki](https://github.com/OpenSourceAWE/Wiki/wiki) !
 
