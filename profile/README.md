@@ -13,7 +13,7 @@ Goals of the OpenSourceAWE organization:
 
 So far, our members come from The Netherlands, France, Spain, Norway, Switzerland and Scotland.
 
-For more information, have a look at our [Wiki](https://github.com/OpenSourceAWE/Wiki/wiki) !
+For more information, have a look at our [Wiki](https://github.com/OpenSourceAWE/Wiki/wiki) or join the [discussions](https://github.com/orgs/OpenSourceAWE/discussions)!
 
 
  <figure>
