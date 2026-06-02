@@ -9,7 +9,7 @@ Goals of the OpenSourceAWE organization:
 * to support the cooperation between startups and academia
 * to develop a complete stack of simulation, estimation, optimization and control software for all major AWE concepts
 * by doing so, reduce the costs and effort for developing the initial software stack for startups and researchers
-* furthermore, to provide reference models for the International Energy Agency (IEA) such that major stackholders can inform themselves about AWE concepts and performance characteristics
+* furthermore, to provide reference models for the International Energy Agency (IEA) such that major stakeholders can inform themselves about AWE concepts and performance characteristics
 
 So far, our members come from The Netherlands, France, Spain, Norway, Switzerland and Scotland.
 
